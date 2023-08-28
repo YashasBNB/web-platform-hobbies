@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,300;10..48,400&family=Luxurious+Roman&family=Luxurious+Script&family=Open+Sans:ital,wght@1,600&family=Poppins:ital@1&family=Raleway:wght@300&display=swap');
+*{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'Luxurious Script', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 40px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
